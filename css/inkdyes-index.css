@@ -1,0 +1,34 @@
+img.school{
+    border-radius: 50px;
+    border: 15px solid #fff ;
+    width: 22vw;
+    max-width: 250px;
+    position: relative;
+    margin: 5px;
+}
+
+.weichat{
+    border-radius: 5px;
+    border: 15px solid #fff ;
+}
+
+.highway-map {
+    width: 100%;
+    height: 63vh;
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 4px 8px 20px 0px #bdbcbc;
+    color: #88cdec;
+}
+
+.tree-hidden{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.tree-box{
+    border-radius: 10px;
+    /* border: 5px solid #ddd; */
+}
+
